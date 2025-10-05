@@ -79,7 +79,7 @@ def generate_sequence():
 def main():
     st.set_page_config(page_title="Sequence Guessing Game", layout="centered")
     
-    st.title("🧠 Sequence Guessing Game")
+    st.title("Series")
     st.markdown("Guess the next numbers in the sequence!")
     
     # Initialize session state
@@ -104,15 +104,15 @@ def main():
     col1, col2, col3 = st.columns(3)
     
     with col1:
-        if st.button("Submit Guess") and not st.session_state.game_over:
+        if st.button("Check") and not st.session_state.game_over:
             if guess == seq[st.session_state.current_guess - 1]:
-                st.success("✅ Correct!")
+                st.success("Yuppp")
                 st.session_state.current_guess += 1
                 if st.session_state.current_guess > 10:  # All terms guessed
                     st.session_state.game_over = True
                     st.balloons()
             else:
-                st.error("❌ Incorrect! Try again.")
+                st.error("Nah. Try again.")
     
     with col2:
         if not st.session_state.show_hint and not st.session_state.game_over:
@@ -124,7 +124,7 @@ def main():
                     st.session_state.game_over = True
     
     with col3:
-        if st.button("Give Up") and not st.session_state.game_over:
+        if st.button("I'm dumb so I give pp") and not st.session_state.game_over:
             st.session_state.game_over = True
             st.session_state.gave_up = True
             st.warning("You gave up! Here's the solution:")
@@ -132,14 +132,10 @@ def main():
     # Display formula when game is over
     if st.session_state.game_over:
         st.markdown("---")
-        st.subheader("🎯 Sequence Formula")
+        st.subheader("Sequence")
         st.latex(st.session_state.game_data['formula_latex'])
         
-        st.subheader("📊 Full Sequence")
-        full_seq = st.session_state.game_data['sequence']
-        st.write(f"**{', '.join(map(str, full_seq))}**")
-        
-        if st.button("🎮 New Game"):
+        if st.button("New Game"):
             # Reset game state
             st.session_state.game_data = generate_sequence()
             st.session_state.current_guess = 7
@@ -150,4 +146,5 @@ def main():
     
 
 if __name__ == "__main__":
+
     main()
