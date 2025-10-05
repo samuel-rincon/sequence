@@ -124,7 +124,7 @@ def main():
                     st.session_state.game_over = True
     
     with col3:
-        if st.button("I'm dumb so I give pp") and not st.session_state.game_over:
+        if st.button("I'm dumb so I give up") and not st.session_state.game_over:
             st.session_state.game_over = True
             st.session_state.gave_up = True
             st.warning("You gave up! Here's the solution:")
@@ -148,3 +148,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
