@@ -79,7 +79,7 @@ def generate_sequence():
 def main():
     st.set_page_config(page_title="Sequence Guessing Game", layout="centered")
     
-    st.title("Series")
+    st.title("Sequence")
     st.markdown("Guess the next numbers in the sequence!")
     
     # Initialize session state
@@ -148,4 +148,5 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
