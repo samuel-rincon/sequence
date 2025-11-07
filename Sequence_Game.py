@@ -85,7 +85,7 @@ def main():
     # Initialize session state
     if 'game_data' not in st.session_state:
         st.session_state.game_data = generate_sequence()
-        st.session_state.current_guess = 7  # Start guessing term 7
+        st.session_state.current_guess = 7  
         st.session_state.show_hint = False
         st.session_state.game_over = False
         st.session_state.gave_up = False
@@ -149,4 +149,6 @@ def main():
             st.rerun()
     
 
-if __name__ == "__main__
+if __name__ == "__main__":
+    main()
+
