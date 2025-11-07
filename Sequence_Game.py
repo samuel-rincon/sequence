@@ -74,11 +74,14 @@ def main():
             st.markdown("""
 No hay forma de volver. Mi única esperanza es que exista algo adelante para distraerme lo suficiente, pero no va a funcionar de noche jamás, porque el futuro es acumulativo. No se deja nada, todo permanece.
 Todo lo llevas encima en cada paso.
+
 Lo sé porque a pesar de todo, estoy dando los pasos. Los pasos correctos. Los pasos sanos. Ya estoy de pie porque por más que quisiera, es el peor momento de mi vida para quedarme sentado. Ya estoy andando, y el camino es hasta bonito. Soleado. Me puedo alejar todo lo que quiera, a toda velocidad, no importa. Igual pesa. Así como todo lo que vale pesa.
 Me prohibieron terminar el libro.
+
 Uno de los pasos es hablar con alguien que sepa de lo que habla, y su opinión profesional es que en este punto, seguir leyendo solo es una forma de castigarme, que es lo que estoy tratando de evitar. Porque soy el tipo de persona que se pone de pie, porque tengo que hacerlo. Si me torturo en cada paso no voy a llegar a donde voy. Y tengo que llegar.
 Entré en pánico. Nunca había sentido tanto miedo, y no sabía cómo manejarlo. Hice lo que hace todo animal acorralado: lo necesario para sobrevivir. Llorar, negociar, rezar. Lo necesario para que no le corten el aire.
 Y el aire olía a ti.
+
 Por eso no podía soportar tenerte cerca. Es la mayor tentación y la mayor tortura a la que me he sometido.
 El olfato es el sentido con la mejor memoria. No puedo hacerlo olvidar así como no puedo hacerme olvidar, solo queda aceptarlo.
 Quisiera que no valiera. Quisiera soltarlo y no recordarlo jamás, no sentirlo jamás. Quisiera jamás haber sentido la luz del sol porque ahora duele demasiado y no sé cómo lidiar con eso. El dolor, que es temporal, pero ¿Y la memoria, que es permanente? ¿El peso?
@@ -162,3 +165,4 @@ Es una creencia que va en contra de toda lógica, y aún así me encuentro crey�
 
 if __name__ == "__main__":
     main()
+
