@@ -190,7 +190,7 @@ Es una creencia que va en contra de toda lógica, y aún así me encuentro crey�
         
         st.subheader("📊 Full Sequence")
         st.write("**4, 8, 15, 16, 23, 42**")
-        st.markdown("*The Numbers from Lost*")
+        st.markdown("*También me prohibieron terminarla, entonces no sé qué signfican.*")
         
         if st.button("🎮 New Game"):
             st.session_state.game_data = generate_sequence()
@@ -204,5 +204,6 @@ Es una creencia que va en contra de toda lógica, y aún así me encuentro crey�
 
 if __name__ == "__main__":
     main()
+
 
 
