@@ -123,15 +123,20 @@ Te retiraste temprano.
 
 No fue suficiente para quedarte a ver quién soy ahora o quién seré mañana. Tu no sufres de curiosidad como yo.
 ¿Pero cómo se supone que no sea personal si no fui suficiente?
-Puedes tener todas las convicciones del mundo. Yo he tenido tiempo de pensar, he tenido momentos de claridad en los que no duele demasiado par poder pensar, fríamente. En esos momentos he podido ver las cosas como son, no como se sienten.
+
+Puedes tener todas las convicciones del mundo. Yo he tenido tiempo de pensar, he tenido momentos de claridad en los que no duele demasiado para poder pensar, fríamente. En esos momentos he podido ver las cosas como son, no como se sienten.
+
 Entiendo el problema.
 
 Tu y yo tenemos los mismos principios, con prioridades muy distintas. Yo, en efecto, no soy una persona coherente.
+
 Debes creer que tengo una voluntad muy débil, solo me conociste doblándola contigo. No me conociste defendiendo mis convicciones, no sabes qué estoy dispuesto a sacrificar para no ceder con mis creencias. Mucho, mucho, mucho, mucho.
 No todo.
 
 Porque contigo, fue natural ceder. En cosas pequeñas, sin importancia. En una hora más, un beso más, un mensaje más. Pensé que tu querías ceder, y correspondí. 
+
 Esto es una cosa de una vez. Tu eres mi única excepción, y eso es todo lo que conoces. En toda mi vida, no haría una excepción por amor. Excepto en la única excepción. Ahí estamos en desacuerdo, y ahí radica el problema.
+
 Tu serías la excepción a mis principios y yo no sería la excepción a los tuyos.
 
 No tiene sentido renunciar a ellos por un hombre que conociste un mes. No tiene sentido alguno.
@@ -222,6 +227,7 @@ llámame, e iré.
 
 if __name__ == "__main__":
     main()
+
 
 
 
