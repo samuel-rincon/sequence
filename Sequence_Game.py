@@ -161,7 +161,7 @@ Ya no quería que me tocara. Nunca lo quise, solo pensé que lo deseaba. Pero es
 
 Después conocí a Alejandro. Era caballero, afectivo, era serio. Y yo sabía que podía llegar a quererlo. Al final no funcionó, pero igual lo sufrí porque sabía que pude llegar a quererlo.
 
-El problema es que a ti pude llegar a amarte.
+El problema es que a ti puedo llegar a amarte.
 
 Lastimosamente, esa es mi terrible conclusión.
 
@@ -228,6 +228,7 @@ llámame, e iré.
 
 if __name__ == "__main__":
     main()
+
 
 
 
