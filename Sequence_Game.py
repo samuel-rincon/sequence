@@ -77,7 +77,9 @@ No hay forma de volver.
 Mi única esperanza es que exista algo adelante para distraerme lo suficiente, pero no va a funcionar de noche jamás, porque el futuro es acumulativo. No se deja nada, todo permanece.
 Todo lo llevas encima en cada paso.
 
-Lo sé porque a pesar de todo, estoy dando los pasos. Los pasos correctos. Los pasos sanos. Ya estoy de pie porque por más que quisiera, es el peor momento de mi vida para quedarme sentado. Ya estoy andando, y el camino es hasta bonito. Soleado. Me puedo alejar todo lo que quiera, a toda velocidad, no importa. Igual pesa. Así como todo lo que vale pesa.
+Lo sé porque a pesar de todo, estoy dando los pasos. Los pasos correctos. Los pasos sanos. Ya estoy de pie porque por más que quisiera, es el peor momento de mi vida para quedarme sentado. Ya estoy andando, y el camino es hasta bonito. Soleado. Me puedo alejar todo lo que quiera, a toda velocidad, no importa.
+
+Igual pesa. Así como todo lo que vale pesa.
 
 Me prohibieron terminar el libro.
 
@@ -209,6 +211,7 @@ llámame, e iré.
 
 if __name__ == "__main__":
     main()
+
 
 
 
