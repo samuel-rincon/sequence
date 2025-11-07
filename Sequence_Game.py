@@ -91,16 +91,26 @@ Y el aire olía a ti.
 Por eso no podía soportar tenerte cerca. Es la mayor tentación y la mayor tortura a la que me he sometido.
 
 El olfato es el sentido con la mejor memoria. No puedo hacerlo olvidar así como no puedo hacerme olvidar, solo queda aceptarlo.
+
 Quisiera que no valiera. Quisiera soltarlo y no recordarlo jamás, no sentirlo jamás. Quisiera jamás haber sentido la luz del sol porque ahora duele demasiado y no sé cómo lidiar con eso. El dolor, que es temporal, pero ¿Y la memoria, que es permanente? ¿El peso?
-Está en todos lados y está en la nada. Especialmente en la nada. En el silencia y en la noche y en el frío, cuando estoy más seguro, con toda el alma, que no estoy donde pertenezco. Tu tienes claro dónde debería estar. Dónde pertenezco.
+Está en todos lados y está en la nada. Especialmente en la nada. En el silencia y en la noche y en el frío, cuando estoy más seguro, con toda el alma, que no estoy donde pertenezco. 
+
+Tu tienes claro dónde debería estar. Dónde pertenezco.
+
 Más vale que no estés leyendo esto.
 
 Si tomaste una decisión, no deberías estar aquí. No deberías seguir leyendo. Porque estás seguro de tu decisión.
+
 Por supuesto que no entiendo tus razones. ¿Cómo voy a entenderlas, si no te conozco? Nos conocimos un mes, ni yo te conozco a ti ni tu me conoces a mí.
+
 Aun así, fui completamente vulnerable contigo. Como nunca lo había sido con nadie, porque no pensé que hubiera alguien que pudiera entender el valor de eso, y tratarlo con cuidado.
+
 Tu me trataste con cuidado hasta que ya no lo hiciste. En el espacio de una hora.
-Respondí sin pensar porque así es como respondía contigo, sin dudarlo dos veces. Para mi eres algo seguro, porque la conexión era tan obvia. Las coincidencias eran tantas para ser cualquier cosa aparte del destino.
-La persona que podría verme completamente al desnudo con lo que eso implica para una persona como yo. Ver eso, y sostenerme igual. Estaba completamente seguro.
+
+Respondí sin pensar porque así es como respondía contigo, sin dudarlo dos veces. Para mi eres algo seguro, porque la conexión es tan obvia. Las coincidencias son tantas que no podría ser otra cosa aparte del destino.
+
+La persona que podría verme completamente al desnudo con lo que eso implica para mi. Ver eso, y sostenerme igual. Estaba completamente seguro.
+
 No di un solo paso creyendo que podría terminar. Toda mi vida la he dedicado a las posibilidades, y me negué a ver las posibilidades. Eso fue una decisión mía. No es justo que te culpe por eso, porque no hay excusa.
 
 Iba con los ojos cerrados.
@@ -212,6 +222,7 @@ llámame, e iré.
 
 if __name__ == "__main__":
     main()
+
 
 
 
