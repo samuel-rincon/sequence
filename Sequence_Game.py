@@ -174,7 +174,8 @@ Es mi convicción y no tienes que respetarla por mí.
 Pero es demasiado obvio, Edward.
 
 Crees que soy como crees que soy. Tienes toda la evidencia en contra, tienes un mes de mi alma en tus manos, tendrás el resto de mi vida. Pero la duda pesa más en tu decisión.
-Tu no vas a tomar el riesgo, y tu y to nos vamos a quedar así para siempre.
+Tu no vas a tomar el riesgo, y tu y yo nos vamos a quedar así para siempre.
+
 Tu eres el dueño de tus decisiones, de tus convicciones y tus prioridades. Eres el dueño de tu miedo y de tus apuestas.
 
 Y yo no valgo el riesgo.
@@ -228,6 +229,7 @@ llámame, e iré.
 
 if __name__ == "__main__":
     main()
+
 
 
 
