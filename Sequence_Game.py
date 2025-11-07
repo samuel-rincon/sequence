@@ -152,6 +152,7 @@ Ya no estoy acorralado y no tengo aire por el qué pelear.
 Lo siento por mentir. Probablemente sentiste la misma traición que sentí yo.
 
 Si tenía la intención de acostarme con él. No mentí cuando dije que pensé que podría haber algo después, y esa fue mi intención desde el principio, pero si fui es porque quería que me tocara. Quería que me sostuviera. Quería conocer la seguridad de unos brazos, la libertad de besar a mi gusto, de adorar por voluntad.
+
 Y entonces estuve ahí, y no sentí absolutamente nada.
 
 Así fue como llegué a esa convicción: no quiero esto.
@@ -194,7 +195,7 @@ No me dejes.
 
 No te engañes, las personas no están para la coherencia, están para el amor. Están para hacer apuestas y perderlas. Están para hacer apuestas y ganarlas.
 
-Es una creencia que va en contra de toda lógica, y yo, una persona de lógica, me encuentro creyéndola. 
+Es una creencia que va en contra de toda lógica. No tiene sentido alguno. Y yo, una persona de lógica, me encuentro creyéndola. 
 
 ¿Qué otra prueba necesito?
 
@@ -227,6 +228,7 @@ llámame, e iré.
 
 if __name__ == "__main__":
     main()
+
 
 
 
