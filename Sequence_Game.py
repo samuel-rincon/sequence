@@ -202,7 +202,7 @@ Es una creencia que va en contra de toda lógica. No tiene sentido alguno. Y yo,
 
 No lo digo como un capricho y no lo digo con pánico ni con miedo. Lo digo con la fuerza que requiere tomar una decisión como esta, una decisión final y permanente. El peor error de mi vida y mi más grande apuesta: 
 
-llámame, e iré.
+Llámame, e iré.
 
 
 
@@ -229,6 +229,7 @@ llámame, e iré.
 
 if __name__ == "__main__":
     main()
+
 
 
 
