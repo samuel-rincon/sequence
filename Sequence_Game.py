@@ -173,7 +173,8 @@ No me dejes si es tan obvio.
 No me dejes.
 
 No te engañes, las personas no están para la coherencia, están para el amor. Están para hacer apuestas y perderlas. Están para hacer apuestas y ganarlas.
-Es una creencia que va en contra de toda lógica, y aún así me encuentro creyéndola. 
+
+Es una creencia que va en contra de toda lógica, y yo, una persona de lógica, me encuentro creyéndola. 
 
 ¿Qué otra prueba necesito?
 
@@ -206,6 +207,7 @@ llámame, e iré.
 
 if __name__ == "__main__":
     main()
+
 
 
 
