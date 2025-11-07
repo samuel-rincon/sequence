@@ -200,7 +200,7 @@ Es una creencia que va en contra de toda lógica. No tiene sentido alguno. Y yo,
 
 ¿Qué otra prueba necesito?
 
-No lo digo como un capricho y no lo digo con pánico ni con miedo. Lo digo con la fuerza que requiere tomar una decisión como esta, una decisión final y permanente. El peor error de mi vida y mi más grande apuesta: 
+No lo digo como un capricho y no lo digo con pánico ni con miedo. Lo digo con lucidez. Lo digo con la fuerza que requiere tomar una decisión como esta, una decisión final y permanente. El peor error de mi vida y mi más grande apuesta: 
 
 Llámame, e iré.
 
@@ -229,6 +229,7 @@ Llámame, e iré.
 
 if __name__ == "__main__":
     main()
+
 
 
 
