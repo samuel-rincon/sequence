@@ -84,6 +84,7 @@ Igual pesa. Así como todo lo que vale pesa.
 Me prohibieron terminar el libro.
 
 Uno de los pasos es hablar con alguien que sepa de lo que habla, y su opinión profesional es que en este punto, seguir leyendo solo es una forma de castigarme, que es lo que estoy tratando de evitar. Porque soy el tipo de persona que se pone de pie, porque tengo que hacerlo. Si me torturo en cada paso no voy a llegar a donde voy. Y tengo que llegar.
+
 Entré en pánico. Nunca había sentido tanto miedo, y no sabía cómo manejarlo. Hice lo que hace todo animal acorralado: lo necesario para sobrevivir. Llorar, negociar, rezar. Lo necesario para que no le corten el aire.
 Y el aire olía a ti.
 
@@ -211,6 +212,7 @@ llámame, e iré.
 
 if __name__ == "__main__":
     main()
+
 
 
 
