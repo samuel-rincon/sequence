@@ -167,7 +167,7 @@ Lastimosamente, esa es mi terrible conclusión.
 
 Que uno no puede amar a cualquiera, no se puede amar a múltiples. Solo al que es.
 
-No fui vulnerable contigo por estúpido, o por falta de experiencia, o por ingenuo. Sino porque eras tú. Es obvio. Lo fue en ese momento, y lo odio con toma mi alma, pero lo es ahora.
+No fui vulnerable contigo por estúpido, o por falta de experiencia, o por ingenuo. Sino porque eres tú. Es obvio. Lo fue en ese momento, y lo odio con toma mi alma, pero lo es ahora.
 
 Es mi convicción y no tienes que respetarla por mí.
 
@@ -228,6 +228,7 @@ llámame, e iré.
 
 if __name__ == "__main__":
     main()
+
 
 
 
