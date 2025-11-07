@@ -194,7 +194,7 @@ No me dejes si es tan obvio.
 
 No me dejes.
 
-No te engañes, las personas no están para la coherencia, están para el amor. Están para hacer apuestas y perderlas. Están para hacer apuestas y ganarlas.
+No te engañes Edward, las personas no están para la coherencia, están para el amor. Están para hacer apuestas y perderlas. Están para hacer apuestas y ganarlas.
 
 Es una creencia que va en contra de toda lógica. No tiene sentido alguno. Y yo, una persona de lógica, me encuentro creyéndola. 
 
@@ -229,6 +229,7 @@ llámame, e iré.
 
 if __name__ == "__main__":
     main()
+
 
 
 
