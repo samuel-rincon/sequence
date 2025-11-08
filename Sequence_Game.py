@@ -206,7 +206,7 @@ Llámame, e iré.
 
 Hoy pagué el registro para el FM, 12 de Febrero de 2026. Espero que te vaya bien en el saber pro. Esperar a la cuarta hora es un fastidio. Por cierto, esa parte del libro si la leí.
 
-
+Si estás seguro de tu decisión ¿Por qué estás aquí?
 
 
             """)
@@ -231,6 +231,7 @@ Hoy pagué el registro para el FM, 12 de Febrero de 2026. Espero que te vaya bie
 
 if __name__ == "__main__":
     main()
+
 
 
 
