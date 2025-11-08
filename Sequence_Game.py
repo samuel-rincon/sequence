@@ -204,6 +204,8 @@ No lo digo como un capricho y no lo digo con pánico ni con miedo. Lo digo con l
 
 Llámame, e iré.
 
+Hoy pagué el registro para el FM, 12 de Febrero de 2026. Espero que te vaya bien en el saber pro. Esperar a la cuarta hora es un fastidio.
+
 
 
 
@@ -229,6 +231,7 @@ Llámame, e iré.
 
 if __name__ == "__main__":
     main()
+
 
 
 
