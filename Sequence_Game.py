@@ -210,7 +210,9 @@ No hay razones de peso para amarme, Samuel. No te engañes tu tampoco.
 
 Yo debo estar loco entonces. Debí imaginarme que lo que tenenemos es una cosa diferente, algo de una vez en la vida. ¿Me estás diciendo que todo eso estaba en mi cabeza y que para ti no fue así? ¿Tu te crees? 
 
+Yo no te amo Edward. Por más que te quiera el amor no es algo que pase en un mes. No sé cómo decirle a lo que sea que siento por ti, pero se siente como la certeza de que tengo que llegar a amarte algún día. Y es verdad, no tengo ninguna razón para estar seguro de eso. Pero aquí estoy ¿No?
 
+Pero también estás tú. 
                         
 
 
@@ -236,6 +238,7 @@ Yo debo estar loco entonces. Debí imaginarme que lo que tenenemos es una cosa d
 
 if __name__ == "__main__":
     main()
+
 
 
 
