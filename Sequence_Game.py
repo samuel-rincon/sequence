@@ -208,6 +208,8 @@ Hoy pagué el registro para el FM, 12 de Febrero de 2026. Espero que te vaya bie
 
 No hay razones de peso para amarme, Samuel. No te engañes tu tampoco.
 
+Yo debo estar loco entonces. Debí imaginarme que lo que tenenemos es una cosa diferente, algo de una vez en la vida. ¿Me estás diciendo que todo eso estaba en mi cabeza y que para ti no fue así? ¿Tu te crees? 
+
 
                         
 
@@ -234,6 +236,7 @@ No hay razones de peso para amarme, Samuel. No te engañes tu tampoco.
 
 if __name__ == "__main__":
     main()
+
 
 
 
