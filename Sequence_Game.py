@@ -207,7 +207,17 @@ Llámame, e iré.
 Hoy pagué el registro para el FM, 12 de Febrero de 2026. Espero que te vaya bien en el saber pro. Esperar a la cuarta hora es un fastidio. Por cierto, esa parte del libro si la leí.
                         
 
+Si estás seguro de tu decisión ¿Por qué estás aquí?
+
+No debes estar tan seguro. 
+
+¿Has considerado cómo sería? Mandar la razón a la mierda. Si yo no estoy loco, y no soy el único que cree que esto es algo especial, algo diferente, debes pensarlo de vez en cuando. Pero no has llamado, ¿Es por miedo, o por honor?
+
+Al menos considéralo. Tengo demasiadas cosas que contarte. Y quiero dormir.
+
+
 No hay razones de peso para amarme, Samuel. No te engañes tu tampoco.
+                        
 
 
             """)
@@ -232,6 +242,8 @@ No hay razones de peso para amarme, Samuel. No te engañes tu tampoco.
 
 if __name__ == "__main__":
     main()
+
+
 
 
 
