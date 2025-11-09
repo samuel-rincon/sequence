@@ -205,24 +205,10 @@ No lo digo como un capricho y no lo digo con pánico ni con miedo. Lo digo con l
 Llámame, e iré.
 
 Hoy pagué el registro para el FM, 12 de Febrero de 2026. Espero que te vaya bien en el saber pro. Esperar a la cuarta hora es un fastidio. Por cierto, esa parte del libro si la leí.
-                        
-
-Si estás seguro de tu decisión ¿Por qué estás aquí?
-
-No debes estar tan seguro. 
-
-¿Has considerado cómo sería? Mandar la razón a la mierda. Si yo no estoy loco, y no soy el único que cree que esto es algo especial, algo diferente, debes pensarlo de vez en cuando. Pero no has llamado, ¿Es por miedo, o por honor?
-
-Al menos considéralo. Tengo demasiadas cosas que contarte. Y quiero dormir.
-
-Si aún tienes la absoluta necesidad de tenerme en tus brazos así como yo tengo la de tenerte en los míos ¿Eso no significa nada? ¿Hay algo más sagrado que eso? No tienes que negártelo. Tu me sostenías como alguien que no estaba dispuesto a soltarme, entonces no nos obligues a hacerlo.
-
-Me advertiste que eras terco. Yo también. No creo que haya algo que valga más la pena que esto. Me imagino que algo debió haber pasado para que llegaras a esa convicción. Así como yo llegué a la mía. ¿Has pensado cómo se crea una convicción tan fuerte, si no es por la experiencia? ¿Es que llegué muy tarde en la vida? ¿Y qué hay de lo que conociste de mí, eso apoya tu conclusión?
-
-Yo te dije que no soy una persona afectiva, física. Eso no es por pena. Es porque para mí, eso es solo para personas demsaiado específicas. Para ti. El lugar más sagrado del mundo es tus brazos. Si ese es el lugar donde pertenezco, y tu lo sabes. ¿Puedes al menos considerarlo? Si tu corazón te dice claramente dónde deberíamos estar ¿Puedes no hacerte el daño de ignorarlo? ¿Puedes pensar por qué?
-
 
 No hay razones de peso para amarme, Samuel. No te engañes tu tampoco.
+
+
                         
 
 
@@ -248,6 +234,7 @@ No hay razones de peso para amarme, Samuel. No te engañes tu tampoco.
 
 if __name__ == "__main__":
     main()
+
 
 
 
