@@ -235,6 +235,25 @@ Y diciendome que no eres alguien coherente solo lo complica más. Porque entonce
 Las líneas 154 y 160 se contradicen, btw.
                         
 
+Está bien.
+
+No se me borró, lo borré.
+
+He estado hablando más rápido de lo que pienso.
+
+Si vamos a negociar, me voy a expresar mejor.
+
+Sobre la contradicción, se puede estar bajo la incorrecta impresión de que se quiere algo, por desconocimiento. Línea 225.
+
+Sin embargo, no pienso que lo que siento por ti sea producto de la idealización. 
+
+Pero si me he equivocado respecto a lo que siento. 
+
+Me lancé muy fuerte. Independientemente de la conexión que tenga contigo, ir de ojos cerrados es irresponsable, y no te corresponde la culpa por eso. 
+
+Fue inmaduro, pero el hecho es que lo hice. Aunque esa sea la causa de la intensidad de lo que siento, no es la causa del sentimiento en sí, eso sigues siendo tú.
+
+
 
             """)
             st.balloons()
