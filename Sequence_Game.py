@@ -213,6 +213,26 @@ Yo debo estar loco entonces. Debí imaginarme que lo que tenenemos es una cosa d
 Yo no te amo Edward. Por más que te quiera el amor no es algo que pase en un mes. No sé cómo decirle a lo que sea que siento por ti, pero se siente como la certeza de que tengo que llegar a amarte algún día. Y es verdad, no tengo ninguna razón para estar seguro de eso. Pero aquí estoy ¿No?
 
 Y también estás tú. 
+
+Se te borró un commit Samuel.
+
+Te voy a ser muy sincero, he estado pensando mucho.
+
+Y la verdad es que tu no me conoces, ni yo te conozco a ti.
+                        
+No tiene sentido que digas todo lo que estás diciendo por alguien que no conoces.
+                        
+Las palabras se las lleva el viento, y nada te asegura que lo que crees que sientes no sea producto del desconocimiento.
+                        
+De la idealización.
+                        
+Podemos intentar negociarlo si quieres. Pero hay mucho de que hablar, mucho detrás.
+
+Las cosas se hacen bien o no se hacen.
+                        
+Y diciendome que no eres alguien coherente solo lo complica más. Porque entonces no puedo confiar en lo que me dices.
+                        
+Las líneas 154 y 160 se contradicen, btw.
                         
 
 
