@@ -254,6 +254,9 @@ Me lancé muy fuerte. Independientemente de la conexión que tenga contigo, ir d
 Fue inmaduro, pero el hecho es que lo hice. Aunque esa sea la causa de la intensidad de lo que siento, no es la causa del sentimiento en sí, eso sigues siendo tú.
 
 
+Btw, me inspiraste. Compré una libreta y lapiceros de gel del panamericana. Honestamente no sé como le haces para escribir lo que piensas, yo pienso tres veces más rápido de lo que puedo escribir.
+Pero está bastante útil para anotar cosas y así, me hacía falta y no sabía
+
 
             """)
             st.balloons()
