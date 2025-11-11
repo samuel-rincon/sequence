@@ -258,6 +258,9 @@ Btw, me inspiraste. Compré una libreta y lapiceros de gel del panamericana. Hon
 Pero está bastante útil para anotar cosas y así, me hacía falta y no sabía
 
 
+Yo empecé a hacerlo porque no pienso en palabras. 
+
+
             """)
             st.balloons()
         
@@ -280,6 +283,7 @@ Pero está bastante útil para anotar cosas y así, me hacía falta y no sabía
 
 if __name__ == "__main__":
     main()
+
 
 
 
